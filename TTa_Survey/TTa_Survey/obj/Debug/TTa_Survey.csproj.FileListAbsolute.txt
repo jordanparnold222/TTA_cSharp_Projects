@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\bin\Debug\TTa_Survey.exe.config
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\bin\Debug\TTa_Survey.exe
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\bin\Debug\TTa_Survey.pdb
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\obj\Debug\TTa_Survey.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\obj\Debug\TTa_Survey.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\obj\Debug\TTa_Survey.exe
+C:\Users\pjord\source\repos\TTa_Survey\TTa_Survey\obj\Debug\TTa_Survey.pdb
