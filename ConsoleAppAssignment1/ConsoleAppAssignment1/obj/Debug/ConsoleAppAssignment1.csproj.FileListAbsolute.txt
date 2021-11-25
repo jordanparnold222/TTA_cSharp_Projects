@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\bin\Debug\ConsoleAppAssignment1.exe.config
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\bin\Debug\ConsoleAppAssignment1.exe
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\bin\Debug\ConsoleAppAssignment1.pdb
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\obj\Debug\ConsoleAppAssignment1.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\obj\Debug\ConsoleAppAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\obj\Debug\ConsoleAppAssignment1.exe
+C:\Users\pjord\source\repos\ConsoleAppAssignment1\ConsoleAppAssignment1\obj\Debug\ConsoleAppAssignment1.pdb
