@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe.config
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.pdb
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.exe
+C:\Users\pjord\source\repos\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.pdb
