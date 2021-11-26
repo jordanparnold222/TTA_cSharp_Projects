@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\bin\Debug\shipping_quote.exe.config
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\bin\Debug\shipping_quote.exe
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\bin\Debug\shipping_quote.pdb
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\obj\Debug\shipping_quote.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\obj\Debug\shipping_quote.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\obj\Debug\shipping_quote.exe
+C:\Users\pjord\source\repos\shipping_quote\shipping_quote\obj\Debug\shipping_quote.pdb
