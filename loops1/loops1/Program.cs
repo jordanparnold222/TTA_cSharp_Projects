@@ -10,9 +10,36 @@ namespace loops1
     {
         static void Main(string[] args)
         {
+            bool isGuessed = false;
+            while (!isGuessed)
+            {
+                Console.WriteLine("Do I like apples, or oranges?");
+                string guess = Console.ReadLine();
+
+                switch (guess)
+                {
+                    case "apples":
+                        Console.WriteLine("Nope, I do not like apples. Try again.");
+                        break;
+
+                    case "oranges":
+                        Console.WriteLine("Correct! You win.");
+                        isGuessed = true;
+                        break;
+
+                    default:
+                        Console.WriteLine("Not even close. Try again.");
+                        break;
+                }
+            }
+
+
+
+
+
             Console.WriteLine("Guess the magical number that I made up");
             int number = Convert.ToInt32(Console.ReadLine());
-            bool isGuessed = number == 12;
+            isGuessed = number == 12;
 
 
             do
