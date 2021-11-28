@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\strings1\strings1\obj\Debug\strings1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\strings1\strings1\bin\Debug\strings1.exe.config
+C:\Users\pjord\source\repos\strings1\strings1\bin\Debug\strings1.exe
+C:\Users\pjord\source\repos\strings1\strings1\bin\Debug\strings1.pdb
+C:\Users\pjord\source\repos\strings1\strings1\obj\Debug\strings1.exe
+C:\Users\pjord\source\repos\strings1\strings1\obj\Debug\strings1.pdb
+C:\Users\pjord\source\repos\strings1\strings1\obj\Debug\strings1.csprojAssemblyReference.cache
