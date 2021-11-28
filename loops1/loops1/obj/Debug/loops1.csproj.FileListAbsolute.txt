@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\loops1\loops1\bin\Debug\loops1.exe.config
+C:\Users\pjord\source\repos\loops1\loops1\bin\Debug\loops1.exe
+C:\Users\pjord\source\repos\loops1\loops1\bin\Debug\loops1.pdb
+C:\Users\pjord\source\repos\loops1\loops1\obj\Debug\loops1.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\loops1\loops1\obj\Debug\loops1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\loops1\loops1\obj\Debug\loops1.exe
+C:\Users\pjord\source\repos\loops1\loops1\obj\Debug\loops1.pdb
