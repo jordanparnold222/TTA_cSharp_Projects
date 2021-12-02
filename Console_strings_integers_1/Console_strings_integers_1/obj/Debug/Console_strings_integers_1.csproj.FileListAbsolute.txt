@@ -1,0 +1,6 @@
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\bin\Debug\Console_strings_integers_1.exe.config
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\bin\Debug\Console_strings_integers_1.exe
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\bin\Debug\Console_strings_integers_1.pdb
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\obj\Debug\Console_strings_integers_1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\obj\Debug\Console_strings_integers_1.exe
+C:\Users\pjord\source\repos\Console_strings_integers_1\Console_strings_integers_1\obj\Debug\Console_strings_integers_1.pdb
