@@ -14,18 +14,19 @@ namespace Console_strings_integers_1
 
 
 
-            //asking user to input the integer
-            Console.WriteLine("Please enter a number and I will divide it by each number in a list I have.");
-            int number = Convert.ToInt32(Console.ReadLine());
 
-
-            //informing user that we are entering the try-catch block
-            Console.WriteLine("We are now entering the try/catch block.");
-            Console.ReadLine();
-
-            //try-catch section
             try
             {
+                //asking user to input the integer
+                Console.WriteLine("Please enter a number and I will divide it by each number in a list I have.");
+                int number = Convert.ToInt32(Console.ReadLine());
+
+
+                //informing user that we are entering the try-catch block
+                Console.WriteLine("We are now entering the try/catch block.");
+                Console.ReadLine();
+
+                //try-catch section
 
                 foreach (int x in theList)
                 {
