@@ -1,7 +1,0 @@
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\bin\Debug\ConsoleAppProject1.exe.config
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\bin\Debug\ConsoleAppProject1.exe
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\bin\Debug\ConsoleAppProject1.pdb
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\obj\Debug\ConsoleAppProject1.csprojAssemblyReference.cache
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\obj\Debug\ConsoleAppProject1.csproj.CoreCompileInputs.cache
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\obj\Debug\ConsoleAppProject1.exe
-C:\Users\pjord\source\repos\ConsoleAppProject1\ConsoleAppProject1\obj\Debug\ConsoleAppProject1.pdb
