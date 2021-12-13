@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\bin\Debug\callingMEthods.exe.config
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\bin\Debug\callingMEthods.exe
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\bin\Debug\callingMEthods.pdb
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\obj\Debug\callingMEthods.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\obj\Debug\callingMEthods.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\obj\Debug\callingMEthods.exe
+C:\Users\pjord\source\repos\callingMEthods\callingMEthods\obj\Debug\callingMEthods.pdb
