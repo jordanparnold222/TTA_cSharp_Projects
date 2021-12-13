@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\bin\Debug\MethodsSubmission2.exe.config
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\bin\Debug\MethodsSubmission2.exe
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\bin\Debug\MethodsSubmission2.pdb
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\obj\Debug\MethodsSubmission2.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\obj\Debug\MethodsSubmission2.exe
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\obj\Debug\MethodsSubmission2.pdb
+C:\Users\pjord\source\repos\MethodsSubmission2\MethodsSubmission2\obj\Debug\MethodsSubmission2.csprojAssemblyReference.cache
