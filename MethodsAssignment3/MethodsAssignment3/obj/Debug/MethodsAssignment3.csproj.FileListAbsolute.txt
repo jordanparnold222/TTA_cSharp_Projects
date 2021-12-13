@@ -1,0 +1,6 @@
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.exe.config
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.exe
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\bin\Debug\MethodsAssignment3.pdb
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.exe
+C:\Users\pjord\source\repos\MethodsAssignment3\MethodsAssignment3\obj\Debug\MethodsAssignment3.pdb
