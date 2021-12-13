@@ -13,7 +13,7 @@ namespace AbstractClassesAssignment1
         public string lastName { get; set; }
 
         //prints the person's first and last name to the screen
-        public void SayName()
+        public virtual void SayName()
         {
             Console.WriteLine(firstName + " " + lastName);
             Console.ReadLine();

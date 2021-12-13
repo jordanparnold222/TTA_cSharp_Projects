@@ -9,5 +9,11 @@ namespace AbstractClassesAssignment1
     //enheriting from the abstract "person" class
     class Employee : Person
     {
+
+        public override void SayName()
+        {
+            Console.WriteLine("Employee name:");
+            base.SayName();
+        }
     }
 }
