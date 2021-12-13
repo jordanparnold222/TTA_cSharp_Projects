@@ -1,0 +1,6 @@
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\bin\Debug\MethodsObjectsAssignment1.exe.config
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\bin\Debug\MethodsObjectsAssignment1.exe
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\bin\Debug\MethodsObjectsAssignment1.pdb
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\obj\Debug\MethodsObjectsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\obj\Debug\MethodsObjectsAssignment1.exe
+C:\Users\pjord\source\repos\MethodsObjectsAssignment1\MethodsObjectsAssignment1\obj\Debug\MethodsObjectsAssignment1.pdb
