@@ -1,0 +1,6 @@
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe.config
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.exe
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\bin\Debug\ClassAssignment1.pdb
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.exe
+C:\Users\pjord\source\repos\ClassAssignment1\ClassAssignment1\obj\Debug\ClassAssignment1.pdb
