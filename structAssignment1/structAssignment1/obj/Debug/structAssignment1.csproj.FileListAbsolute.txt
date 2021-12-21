@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\bin\Debug\structAssignment1.exe.config
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\bin\Debug\structAssignment1.exe
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\bin\Debug\structAssignment1.pdb
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\obj\Debug\structAssignment1.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\obj\Debug\structAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\obj\Debug\structAssignment1.exe
+C:\Users\pjord\source\repos\structAssignment1\structAssignment1\obj\Debug\structAssignment1.pdb
