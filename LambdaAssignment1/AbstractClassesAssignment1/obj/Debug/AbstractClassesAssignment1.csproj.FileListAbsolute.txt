@@ -12,3 +12,10 @@ C:\Users\pjord\source\repos\PolymorphismAssignment1\AbstractClassesAssignment1\o
 C:\Users\pjord\source\repos\PolymorphismAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.csproj.CoreCompileInputs.cache
 C:\Users\pjord\source\repos\PolymorphismAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.exe
 C:\Users\pjord\source\repos\PolymorphismAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.pdb
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\bin\Debug\AbstractClassesAssignment1.exe.config
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\bin\Debug\AbstractClassesAssignment1.exe
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\bin\Debug\AbstractClassesAssignment1.pdb
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.exe
+C:\Users\pjord\source\repos\LambdaAssignment1\AbstractClassesAssignment1\obj\Debug\AbstractClassesAssignment1.pdb

@@ -27,10 +27,13 @@ namespace AbstractClassesAssignment1
             List<Employee> empJoe = new List<Employee>();
 
             //populating a list of employees named "Joe"
-            foreach (Employee emp in emps.Where(x => x.firstName == "Joe"))
+            foreach (Employee emp in emps)
             {
-                empJoe.Add(emp);
-                Console.WriteLine(emp.firstName);
+                if (emp.firstName == "Joe")
+                {
+                    empJoe.Add(emp);
+                    Console.WriteLine(emp.firstName);
+                }
             }
 
 
