@@ -35,6 +35,16 @@ namespace AbstractClassesAssignment1
                     Console.WriteLine(emp.firstName);
                 }
             }
+            //creating the Joe list using a lambda expression
+            List<Employee> empJoe2 = empJoe.Where(x => x.firstName == "Joe").ToList();
+            Console.WriteLine("Creating a Joe list using a lambda expression:");
+            foreach (Employee Joe in empJoe2)
+            {
+                int i = 0;
+                Console.WriteLine(empJoe2[i].firstName);
+                i++;
+            }
+            
 
 
             //creating new list of employees who's ID is greater than 5, using a lambda function
