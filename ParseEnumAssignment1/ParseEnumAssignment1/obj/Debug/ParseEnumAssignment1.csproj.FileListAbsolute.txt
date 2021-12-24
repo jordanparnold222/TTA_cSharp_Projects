@@ -1,0 +1,7 @@
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\bin\Debug\ParseEnumAssignment1.exe.config
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\bin\Debug\ParseEnumAssignment1.exe
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\bin\Debug\ParseEnumAssignment1.pdb
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\obj\Debug\ParseEnumAssignment1.csprojAssemblyReference.cache
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\obj\Debug\ParseEnumAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\obj\Debug\ParseEnumAssignment1.exe
+C:\Users\pjord\source\repos\ParseEnumAssignment1\ParseEnumAssignment1\obj\Debug\ParseEnumAssignment1.pdb
