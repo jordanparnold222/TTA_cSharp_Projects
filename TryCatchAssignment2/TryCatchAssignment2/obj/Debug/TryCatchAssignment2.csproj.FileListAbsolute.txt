@@ -1,0 +1,6 @@
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\obj\Debug\TryCatchAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\bin\Debug\TryCatchAssignment2.exe.config
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\bin\Debug\TryCatchAssignment2.exe
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\bin\Debug\TryCatchAssignment2.pdb
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\obj\Debug\TryCatchAssignment2.exe
+C:\Users\pjord\source\repos\TryCatchAssignment2\TryCatchAssignment2\obj\Debug\TryCatchAssignment2.pdb
